@@ -35,3 +35,11 @@ i {
   border-width: 2px;
 }
 
+hr {
+  background: #533483;
+  padding: 2px;
+  width: 120px;
+  border-radius: 50px;
+  border-color: #533483;
+}
+
